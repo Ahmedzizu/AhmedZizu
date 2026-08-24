@@ -1,15 +1,70 @@
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:141E30,100:8B6F47\&height=250\&section=header\&text=Ahmed%20Abdel%20Latif\&fontSize=45\&fontColor=ffffff\&desc=AI%20%26%20Backend%20Engineer\&descSize=22\&animation=fadeIn)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Ahmed%20Abdel%20Latif&fontSize=45&fontColor=ffffff&desc=AI%20Developer%20|%20Full%20Stack%20Developer)
-## 💻 Skills
+## AI & Backend Engineer
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+I build intelligent systems and backend applications with a focus on **Artificial Intelligence, Backend Engineering, AI Agents, and Automation**.
+
+My work combines machine learning, large language models, APIs, databases, and automation to build practical and scalable software systems.
+
+---
+
+## AI & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+
+Machine Learning · Deep Learning · NLP · Computer Vision · LLMs · RAG · AI Agents
+
+---
+
+## Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
+REST APIs · Backend Architecture · Authentication · Databases · Data Processing
+
+---
+
+## AI Engineering & Automation
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge\&logo=openai\&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge\&logo=anthropic\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+
+ChatGPT · Claude · Claude Code · LLM Applications · AI Agents · Tool Calling · RAG · Automation
+
+---
+
+## Infrastructure & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+Docker · Linux · Git · VPS · Cloudflare
+
+---
+
+## Focus
+
+AI Engineering · Backend Engineering · AI Agents · RAG · LLM Applications · Automation
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ahmedzizu/) ·  · [Email](mailto:ahmezizu81@gmail.comL)
+
+---
+
+<div align="center">
+
+AI & Backend Engineering
+
+</div>
